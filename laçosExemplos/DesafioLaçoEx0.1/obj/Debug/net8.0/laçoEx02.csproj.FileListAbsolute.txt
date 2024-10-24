@@ -1,0 +1,14 @@
+C:\Users\50278529836\Desktop\aula BackEnd\laçosExemplos\DesafioLaçoEx0.1\bin\Debug\net8.0\laçoEx02.exe
+C:\Users\50278529836\Desktop\aula BackEnd\laçosExemplos\DesafioLaçoEx0.1\bin\Debug\net8.0\laçoEx02.deps.json
+C:\Users\50278529836\Desktop\aula BackEnd\laçosExemplos\DesafioLaçoEx0.1\bin\Debug\net8.0\laçoEx02.runtimeconfig.json
+C:\Users\50278529836\Desktop\aula BackEnd\laçosExemplos\DesafioLaçoEx0.1\bin\Debug\net8.0\laçoEx02.dll
+C:\Users\50278529836\Desktop\aula BackEnd\laçosExemplos\DesafioLaçoEx0.1\bin\Debug\net8.0\laçoEx02.pdb
+C:\Users\50278529836\Desktop\aula BackEnd\laçosExemplos\DesafioLaçoEx0.1\obj\Debug\net8.0\laçoEx02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50278529836\Desktop\aula BackEnd\laçosExemplos\DesafioLaçoEx0.1\obj\Debug\net8.0\laçoEx02.AssemblyInfoInputs.cache
+C:\Users\50278529836\Desktop\aula BackEnd\laçosExemplos\DesafioLaçoEx0.1\obj\Debug\net8.0\laçoEx02.AssemblyInfo.cs
+C:\Users\50278529836\Desktop\aula BackEnd\laçosExemplos\DesafioLaçoEx0.1\obj\Debug\net8.0\laçoEx02.csproj.CoreCompileInputs.cache
+C:\Users\50278529836\Desktop\aula BackEnd\laçosExemplos\DesafioLaçoEx0.1\obj\Debug\net8.0\laçoEx02.dll
+C:\Users\50278529836\Desktop\aula BackEnd\laçosExemplos\DesafioLaçoEx0.1\obj\Debug\net8.0\refint\laçoEx02.dll
+C:\Users\50278529836\Desktop\aula BackEnd\laçosExemplos\DesafioLaçoEx0.1\obj\Debug\net8.0\laçoEx02.pdb
+C:\Users\50278529836\Desktop\aula BackEnd\laçosExemplos\DesafioLaçoEx0.1\obj\Debug\net8.0\laçoEx02.genruntimeconfig.cache
+C:\Users\50278529836\Desktop\aula BackEnd\laçosExemplos\DesafioLaçoEx0.1\obj\Debug\net8.0\ref\laçoEx02.dll

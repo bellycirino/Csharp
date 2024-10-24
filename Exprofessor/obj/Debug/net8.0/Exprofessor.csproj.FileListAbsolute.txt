@@ -1,0 +1,14 @@
+C:\Users\50278529836\Desktop\aula BackEnd\Exprofessor\bin\Debug\net8.0\Exprofessor.exe
+C:\Users\50278529836\Desktop\aula BackEnd\Exprofessor\bin\Debug\net8.0\Exprofessor.deps.json
+C:\Users\50278529836\Desktop\aula BackEnd\Exprofessor\bin\Debug\net8.0\Exprofessor.runtimeconfig.json
+C:\Users\50278529836\Desktop\aula BackEnd\Exprofessor\bin\Debug\net8.0\Exprofessor.dll
+C:\Users\50278529836\Desktop\aula BackEnd\Exprofessor\bin\Debug\net8.0\Exprofessor.pdb
+C:\Users\50278529836\Desktop\aula BackEnd\Exprofessor\obj\Debug\net8.0\Exprofessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50278529836\Desktop\aula BackEnd\Exprofessor\obj\Debug\net8.0\Exprofessor.AssemblyInfoInputs.cache
+C:\Users\50278529836\Desktop\aula BackEnd\Exprofessor\obj\Debug\net8.0\Exprofessor.AssemblyInfo.cs
+C:\Users\50278529836\Desktop\aula BackEnd\Exprofessor\obj\Debug\net8.0\Exprofessor.csproj.CoreCompileInputs.cache
+C:\Users\50278529836\Desktop\aula BackEnd\Exprofessor\obj\Debug\net8.0\Exprofessor.dll
+C:\Users\50278529836\Desktop\aula BackEnd\Exprofessor\obj\Debug\net8.0\refint\Exprofessor.dll
+C:\Users\50278529836\Desktop\aula BackEnd\Exprofessor\obj\Debug\net8.0\Exprofessor.pdb
+C:\Users\50278529836\Desktop\aula BackEnd\Exprofessor\obj\Debug\net8.0\Exprofessor.genruntimeconfig.cache
+C:\Users\50278529836\Desktop\aula BackEnd\Exprofessor\obj\Debug\net8.0\ref\Exprofessor.dll
